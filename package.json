@@ -1,0 +1,14 @@
+{
+"name": "studentid_comp3123_labtest1",
+"version": "1.0.0",
+"type": "module",
+"scripts": {
+"test:lower": "node test_lowerCase.js",
+"run:callbacks": "node run_callbacks.js",
+"add:logs": "node add_logs.js",
+"remove:logs": "node remove_logs.js"
+},
+"engines": {
+"node": ">=14"
+}
+}
